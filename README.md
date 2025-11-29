@@ -27,8 +27,7 @@ simple offline ingredient checker.
     ├── server.js                  # Express backend / API
     ├── skincare_ingredients.db    # SQLite database
     │
-    ├── package.json               # Dependencies / metadata
-    └── package-lock.json          # Auto-generated
+    └── package.json               # Dependencies / metadata
 
 ## 🚀 Installation
 
