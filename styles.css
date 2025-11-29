@@ -35,3 +35,11 @@
         padding: 10px;
         border-radius: 10px;
     }
+
+    #colorCircle {
+        padding: 4px;
+        height: 0px;
+        border-radius: 50%;
+        display: inline-flex;
+        margin-left: 5px;
+    }
